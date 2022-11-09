@@ -1,14 +1,21 @@
 package com.DiogoSant0s.DesignPattern;
 
-import com.DiogoSant0s.DesignPattern.StringDrink;
-
-public class StringReplacer implements StringTransformer {
-
+public class StringReplacer implements StringTransformer{
+    private final char a, b;
     public StringReplacer(char a, char b) {
-
+        this.a = a;
+        this.b = b;
     }
 
+    @Override
     public void execute(StringDrink drink) {
+        String str = drink.getText().replace(a, b);
+        drink.setText(str);
+    }
 
+    @Override
+    public void undo(StringDrink drink) {
+        String str = drink.getText().replace(b, a);
+        drink.setText(str);
     }
 }

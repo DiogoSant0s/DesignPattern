@@ -1,11 +1,15 @@
 package com.DiogoSant0s.DesignPattern;
 
-import com.DiogoSant0s.DesignPattern.StringDrink;
-
-public class StringInverter implements StringTransformer {
-
+public class StringInverter implements StringTransformer{
     @Override
     public void execute(StringDrink drink) {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append(drink.getText());
+        drink.setText(stringBuilder.reverse().toString());
+    }
 
+    @Override
+    public void undo(StringDrink drink) {
+        execute(drink);
     }
 }
