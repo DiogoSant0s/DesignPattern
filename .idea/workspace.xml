@@ -16,6 +16,11 @@
       <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/Bar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/BarObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/BarObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/HumanClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/HumanClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringBar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringCaseChanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringCaseChanger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringDrink.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringInverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringInverter.java" afterDir="false" />
@@ -23,6 +28,8 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringReplacer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringReplacer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformerGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformerGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/HumanClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/HumanClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringBarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringBarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringCaseChangerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringCaseChangerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringDrinkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringDrinkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringInverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringInverterTest.java" afterDir="false" />
@@ -255,7 +262,7 @@
       <workItem from="1667954685413" duration="209000" />
       <workItem from="1668019918287" duration="330000" />
       <workItem from="1668252964851" duration="621000" />
-      <workItem from="1669244895185" duration="376000" />
+      <workItem from="1669244895185" duration="1252000" />
     </task>
     <servers />
   </component>
