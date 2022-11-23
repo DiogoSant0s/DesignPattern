@@ -5,20 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abc57952-7ade-411e-abc9-6db227e81ab1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/Bar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/BarObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/HumanClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/ImpatientStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/OrderingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/SmartStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformerGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/HumanClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/OrderRecipeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringBarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringTransformerGroupTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/TransformUndoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -36,11 +22,14 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringRecipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringRecipe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringReplacer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringReplacer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformerGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformerGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringCaseChangerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringCaseChangerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringDrinkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringDrinkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringInverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringInverterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringRecipeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringRecipeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringReplacerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringReplacerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringTransformerGroupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringTransformerGroupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/TransformUndoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/TransformUndoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,6 +252,10 @@
       <updated>1667904980691</updated>
       <workItem from="1667950246811" duration="2910000" />
       <workItem from="1667953892084" duration="251000" />
+      <workItem from="1667954685413" duration="209000" />
+      <workItem from="1668019918287" duration="330000" />
+      <workItem from="1668252964851" duration="621000" />
+      <workItem from="1669244895185" duration="376000" />
     </task>
     <servers />
   </component>
