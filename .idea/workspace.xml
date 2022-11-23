@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abc57952-7ade-411e-abc9-6db227e81ab1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/AlienClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/FerengiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/RomulanClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/AlienClientTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -20,6 +24,9 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/BarObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/BarObserver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/HumanClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/HumanClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/ImpatientStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/ImpatientStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/OrderingStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/OrderingStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/SmartStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/SmartStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringBar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringCaseChanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringCaseChanger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringDrink.java" afterDir="false" />
@@ -29,6 +36,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformerGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DiogoSant0s/DesignPattern/StringTransformerGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/HumanClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/HumanClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/OrderRecipeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/OrderRecipeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringBarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringBarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringCaseChangerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringCaseChangerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringDrinkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/DiogoSant0s/DesignPattern/StringDrinkTest.java" afterDir="false" />
@@ -262,7 +270,7 @@
       <workItem from="1667954685413" duration="209000" />
       <workItem from="1668019918287" duration="330000" />
       <workItem from="1668252964851" duration="621000" />
-      <workItem from="1669244895185" duration="1252000" />
+      <workItem from="1669244895185" duration="1623000" />
     </task>
     <servers />
   </component>
